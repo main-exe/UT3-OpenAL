@@ -9,6 +9,11 @@ Having 3D spatial sound directly from audio engine has elevation and is more acc
 
 Instructions and a way to find best sounding HRTF are included in 'Readme.txt' inside UT3-OpenAL-XXXX [archive](https://github.com/main-exe/UT3-OpenAL/releases).
 
+## Sample video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/U2mVezyjyEU/0.jpg)](https://www.youtube.com/watch?v=U2mVezyjyEU)
+
+
 ## Instructions for other UT games
 
 [UT99](https://github.com/main-exe/UT99-OpenAL)
